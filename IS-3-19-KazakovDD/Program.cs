@@ -16,7 +16,7 @@ namespace IS_3_19_KazakovDD
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Menu());
         }
     }
 }
