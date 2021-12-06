@@ -57,9 +57,11 @@ namespace IS_3_19_KazakovDD
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.SystemColors.WindowFrame;
+            this.ClientSize = new System.Drawing.Size(453, 252);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.button1);
+            this.ForeColor = System.Drawing.SystemColors.Highlight;
             this.Name = "Form4";
             this.Text = "Form4";
             this.Load += new System.EventHandler(this.Form4_Load);
