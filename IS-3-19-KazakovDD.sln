@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IS-3-19-KazakovDD", "IS-3-19-KazakovDD\IS-3-19-KazakovDD.csproj", "{CC43440A-0D13-4CEC-B480-29652130D10D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{AAB77592-8586-448B-A1AC-1BF384E8C927}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnDB", "MyLibrary\ConnDB.csproj", "{AAB77592-8586-448B-A1AC-1BF384E8C927}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
