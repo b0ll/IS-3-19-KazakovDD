@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IS-3-19-KazakovDD", "IS-3-19-KazakovDD\IS-3-19-KazakovDD.csproj", "{CC43440A-0D13-4CEC-B480-29652130D10D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnDB", "MyLibrary\ConnDB.csproj", "{AAB77592-8586-448B-A1AC-1BF384E8C927}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{02D8AF31-8E6C-4299-8521-7E87BB6B91D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{CC43440A-0D13-4CEC-B480-29652130D10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC43440A-0D13-4CEC-B480-29652130D10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC43440A-0D13-4CEC-B480-29652130D10D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AAB77592-8586-448B-A1AC-1BF384E8C927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AAB77592-8586-448B-A1AC-1BF384E8C927}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AAB77592-8586-448B-A1AC-1BF384E8C927}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AAB77592-8586-448B-A1AC-1BF384E8C927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D8AF31-8E6C-4299-8521-7E87BB6B91D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D8AF31-8E6C-4299-8521-7E87BB6B91D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D8AF31-8E6C-4299-8521-7E87BB6B91D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D8AF31-8E6C-4299-8521-7E87BB6B91D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
